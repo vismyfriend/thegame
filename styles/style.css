@@ -68,7 +68,7 @@ filter: none;
     border: solid 4px rgb(235, 70, 70);
 } */
 .card.open {
-    animation: card-flip 0.5s ease forwards;
+    animation: card-flip 1s ease forwards;
     background-image: none;
     background-color: white;
      
@@ -126,12 +126,13 @@ button {
 
 @keyframes card-flip {
     from {
-        transform: scaleY(100%);
+        transform: rotateX(0d);
     }
+    /* break points - сколько угодно может быть */
     50% {
-        transform: scaleY(5%);
+        transform: rotateX(180deg);
     }
     to {
-        transform: scaleY(100%);
+        transform: rotateX(0deg);
     }
 }
