@@ -1,114 +1,124 @@
 const questions = [
     {
         id: 1,
-        ru: "пить пиво",
-        eng: "drink beer"
+        ru: "	Январь	",
+        eng: "	January	"
     },
     {
         id: 2,
-        ru: "танцевать",
-        eng: "dance"
+        ru: "	Февраль	",
+        eng: "	February	"
     },
     {
         id: 3,
-        ru: "смотреть ютюб",
-        eng: "watch youtube"
+        ru: "	Март	",
+        eng: "	March	"
     },
     {
         id: 4,
-        ru: "читать книги",
-        eng: "read books"
+        ru: "	Апрель	",
+        eng: "	April	"
     },
     {
         id: 5,
-        ru: "	плакать	",
-        eng: "	cry	"
+        ru: "	Май	",
+        eng: "	May	"
     },
     {
         id: 6,
-        ru: "	мыть полы	",
-        eng: "	wash the floors	"
+        ru: "	Июнь	",
+        eng: "	June	"
     },
     {
         id: 7,
-        ru: "	мыть посуду	",
-        eng: "	wash up = wash the dishes	"
+        ru: "	Июль	",
+        eng: "	July	"
     },
     {
         id: 8,
-        ru: "	тратить деньги	",
-        eng: "	spend money	"
+        ru: "	Август	",
+        eng: "	August	"
     },
     {
         id: 9,
-        ru: "	покупать еду	",
-        eng: "	buy food	"
+        ru: "	Сентябрь	",
+        eng: "	September	"
     },
     {
         id: 10,
-        ru: "	пить текилу	",
-        eng: "	drink tequilla	"
+        ru: "	Октябрь	",
+        eng: "	October	"
     },
     {
         id: 11,
-        ru: "	курить сигары	",
-        eng: "	smoke cigars	"
+        ru: "	Ноябрь	",
+        eng: "	November	"
+    },
+    {
+        id: 12,
+        ru: "	Декабрь	",
+        eng: "	December	"
     }
 ]
 const answers = [
     {
         id: 101,
-        ru: "иногда",
-        eng: "sometimes"
+        ru: "	сто	",
+        eng: "	a hundred	"
     },
     {
         id: 102,
-        ru: "после уроков",
-        eng: "after lessons"
+        ru: "	тысяча	",
+        eng: "	a thousand	"
     },
     {
         id: 103,
-        ru: "перед уроками",
-        eng: "before lessons"
-    },
-    {
-        id: 105,
-        ru: "	по понедельникам	",
-        eng: "	on Mondays	"
+        ru: "	около миллиона	",
+        eng: "	about a million	"
     },
     {
         id: 104,
-        ru: "когда мне скучно",
-        eng: "when I'm bored"
+        ru: "	миллиард	",
+        eng: "	a billion	"
+    },
+    {
+        id: 105,
+        ru: "	сто один	",
+        eng: "	a hundred one	"
     },
     {
         id: 106,
-        ru: "	по вторникам	",
-        eng: "	on Tuesdays	"
+        ru: "	сто десять	",
+        eng: "	a hundred ten	"
     },
     {
         id: 107,
-        ru: "	по средам	",
-        eng: "	on Wednesdays	"
+        ru: "	тринадцать	",
+        eng: "	thirteen	"
     },
     {
         id: 108,
-        ru: "	 по четвергам	",
-        eng: "	on Thursdays	"
+        ru: "	тридцать	",
+        eng: "	thirty	"
     },
     {
         id: 109,
-        ru: "	по пятницам	",
-        eng: "	on Fridays	"
+        ru: "	двенадцать	",
+        eng: "	twelve	"
     },
     {
         id: 110,
-        ru: "	по субботам	",
-        eng: "	on Saturdays	"
+        ru: "	двадцать	",
+        eng: "	twenty	"
     },
     {
         id: 111,
-        ru: "	по воскресеньям	",
-        eng: "	on Sundays	"
+        ru: "	восемь с половиной	",
+        eng: "	eight and a half	"
+    },
+    {
+        id: 112,
+        ru: "	тридцать три	",
+        eng: "	thirty three	"
     }
 ]	
